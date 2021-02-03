@@ -1,0 +1,104 @@
+baseURL: https://example.edu
+languageCode: en-us
+title: Gerard Chung
+theme: avicenna
+googleAnalytics: UA-1234-6
+timeout: 3000
+params:
+  affilation:
+    - contact: gcsk1982@gmail.com
+      name: University of North Carolina
+      position: PhD Candidate
+  #twitter: @GerardChung
+  #blog: 'www.gerardchung.com'
+  cv_name: cv.pdf
+  interests: 'Parenting, Family Services, Risk Assessment in Child Protection, Computational Social Science'
+  introduction:
+    paragraph:
+      - text: "I am from Singapore. I am a doctoral candidate at the University of 
+               North Carolina at Chapel Hill [School of Social Work](https://ssw.unc.edu/).\n   "
+      - text: " My dissertation will focus on risk factors of maltreatment rereports. My 
+                [first paper](https://gerardchung.shinyapps.io/shiny_metaanalysis_effects/) 
+                will be a meta-analysis of risk factors of maltreatment rereports. 
+                My second paper will do a predictive risk modeling of risk factors. 
+                My third paper will use a Bayesian spatiotemporal 
+                framework to analyze risk factors associated with child maltreatment 
+                rereports across counties of North Carolina.\n\ "
+      - text: "My research interests include parenting, engaging fathers in services, 
+               risk factors of child maltreatment, and predictive modeling. I also 
+               identify as a methodologist in social work research where the through
+               line connecting my research interests involved the use of computational
+               social science methods and other advanced statistical methods.\n\ "
+  projects:
+    - project:
+        - blog_link: ''
+          code_link: ''
+          description: A survey study of parenting during COVID-19 pandemic in Singapore
+          name: Parenting During COVID-19 in Singapore
+          project_page: http://sgcovidparenting.mystrikingly.com/
+        - blog_link: ''
+          code_link: ''
+          description: Preliminary results of meta-analysis in interactive table 
+          name: Meta-analysis of Risk Factors of Child Maltreatment Recurrence
+          project_page: https://gerardchung.shinyapps.io/shiny_metaanalysis_effects/
+     #   - blog_link: https://ablogpost.com
+     #     code_link: ''
+     #     description: ''
+     #     name: Integer eget aliquet nibh praesent tristique magna
+     #     project_page: https://myprojecthomepage.com
+ #publications:
+ #  - paper:
+ #      - authors: Ana Alvardo, William Worthley, __Hadi Sinaee__
+ #        blog_link: https://myblogaboutit.com
+ #        code_link: https://thecoderepo.com
+ #        dest: Helga Zita Journal
+ #        link: https://mypaperishere.com
+ #        name: Enim nunc faucibus a pellentesque sit amet porttitor
+ #      - authors: __Hadi Sinaee__,Les Larkins, Edra Ethier
+ #        blog_link: https://myblogaboutit.com
+ #        code_link: https://thecoderepo.com
+ #        dest: Meklit Katlego Conference
+ #        link: https://mypaperishere.com
+ #        name: In cursus turpis massa tincidunt dui ut ornare lectus sit
+ #    year: Preprint
+ #  - paper:
+ #      - authors: Caroll Comes, __Hadi Sinaee__
+ #        blog_link: ''
+ #        code_link: https://thecoderepo.com
+ #        dest: Udo Madhu Journal
+ #        link: https://mypaperishere.com
+ #        name: Feugiat sed lectus vestibulum mattis ullamcorper velit sed
+ #      - authors: 'Les Larkins, Ana Alvardo, __Hadi Sinaee__ '
+ #        blog_link: https://myblogaboutit.com
+ #        code_link: ''
+ #        dest: Zorka Vita Conference
+ #        link: https://mypaperishere.com
+ #        name: Venenatis urna cursus eget nunc. Nam aliquam sem et tortor consequat
+ #          id porta nibh venenatis
+ #      - authors: Les Larkins, __Hadi Sinaee__, Ana Alvardo
+ #        blog_link: ''
+ #        code_link: ''
+ #        dest: Lena Randa Conference
+ #        link: https://mypaperishere.com
+ #        name: Aliquet eget sit amet tellus cras adipiscing enim eu turpis
+ #      - authors: __Hadi Sinaee__, Caroll Comes
+ #        blog_link: ''
+ #        code_link: ''
+ #        dest: Thandeka Radhika Conference
+ #        link: ''
+ #        name: Orci eu lobortis elementum nibh tellus molestie nunc non blandit
+ #    year: '2019'
+  social:
+    - icon: github
+      name: GitHub
+      url: https://github.com/gerardchung 
+    - icon: twitter
+      name: Twitter
+      url: https://twitter.com/GerardChung
+    - icon: graduation-cap
+      icon_pack: fas
+      link: https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en
+    - icon: researchgate
+      icon_pack: fab
+      link: https://www.researchgate.net/profile/Gerard_Chung
+  subtitle: PhD Student

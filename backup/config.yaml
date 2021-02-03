@@ -1,0 +1,108 @@
+baseURL: https://example.edu
+languageCode: en-us
+title: Gerard Chung
+theme: avicenna
+googleAnalytics: UA-1234-6
+timeout: 3000
+params:
+  affilation:
+    - contact: gcsk1982@gmail.com
+      name: University of North Carolina
+      position: PhD Candidate
+  #twitter: @GerardChung
+  #blog: http://myblog.edu
+  cv_name: cv.pdf
+  interests: 'Parenting, Risk Assessment in Chil Protection, Computational Social Science'
+  introduction:
+    paragraph:
+      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua.\n\t Nunc scelerisque
+          viverra mauris in aliquam sem fringilla ut morbi. Integer feugiat scelerisque
+          varius morbi enim.\n\t  A diam maecenas sed enim ut sem viverra. Orci eu
+          lobortis elementum nibh tellus.\n\t\tEgestas sed sed risus pretium quam
+          vulputate dignissim suspendisse in.\n\t\tAccumsan sit amet nulla facilisi
+          morbi tempus iaculis urna. Condimentum lacinia quis vel eros donec.\n   "
+      - text: " Pellentesque nec nam aliquam sem et tortor consequat id porta.\n\tViverra
+          suspendisse potenti nullam ac. Leo vel orci porta non pulvinar neque laoreet.\n\tNulla
+          facilisi nullam vehicula ipsum a arcu. Tempus egestas sed sed risus pretium
+          quam vulputate dignissim suspendisse.\n\tUllamcorper velit sed ullamcorper
+          morbi tincidunt ornare. Dui sapien eget mi proin sed libero.\n\tQuam pellentesque
+          nec nam aliquam sem et tortor consequat id. Aliquet lectus proin nibh nisl.\n
+          \ "
+  projects:
+    - project:
+        - blog_link: https://ablogpost.com
+          code_link: https://coderepo.com
+          description: Enim facilisis gravida neque convallis a. Suspendisse potenti
+            nullam ac tortor vitae purus faucibus ornare suspendisse.Velit egestas
+            dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor. In nisl
+            nisi scelerisque eu ultrices vitae auctor.
+          name: Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem
+            et tortor
+          project_page: https://myprojecthomepage.com
+        - blog_link: ''
+          code_link: https://coderepo.com
+          description: ''
+          name: In nisl nisi scelerisque eu ultrices vitae auctor
+          project_page: https://myprojecthomepage.com
+        - blog_link: https://ablogpost.com
+          code_link: ''
+          description: ''
+          name: Integer eget aliquet nibh praesent tristique magna
+          project_page: https://myprojecthomepage.com
+  publications:
+    - paper:
+        - authors: Ana Alvardo, William Worthley, __Hadi Sinaee__
+          blog_link: https://myblogaboutit.com
+          code_link: https://thecoderepo.com
+          dest: Helga Zita Journal
+          link: https://mypaperishere.com
+          name: Enim nunc faucibus a pellentesque sit amet porttitor
+        - authors: __Hadi Sinaee__,Les Larkins, Edra Ethier
+          blog_link: https://myblogaboutit.com
+          code_link: https://thecoderepo.com
+          dest: Meklit Katlego Conference
+          link: https://mypaperishere.com
+          name: In cursus turpis massa tincidunt dui ut ornare lectus sit
+      year: Preprint
+    - paper:
+        - authors: Caroll Comes, __Hadi Sinaee__
+          blog_link: ''
+          code_link: https://thecoderepo.com
+          dest: Udo Madhu Journal
+          link: https://mypaperishere.com
+          name: Feugiat sed lectus vestibulum mattis ullamcorper velit sed
+        - authors: 'Les Larkins, Ana Alvardo, __Hadi Sinaee__ '
+          blog_link: https://myblogaboutit.com
+          code_link: ''
+          dest: Zorka Vita Conference
+          link: https://mypaperishere.com
+          name: Venenatis urna cursus eget nunc. Nam aliquam sem et tortor consequat
+            id porta nibh venenatis
+        - authors: Les Larkins, __Hadi Sinaee__, Ana Alvardo
+          blog_link: ''
+          code_link: ''
+          dest: Lena Randa Conference
+          link: https://mypaperishere.com
+          name: Aliquet eget sit amet tellus cras adipiscing enim eu turpis
+        - authors: __Hadi Sinaee__, Caroll Comes
+          blog_link: ''
+          code_link: ''
+          dest: Thandeka Radhika Conference
+          link: ''
+          name: Orci eu lobortis elementum nibh tellus molestie nunc non blandit
+      year: '2019'
+  social:
+    - icon: github
+      name: GitHub
+      url: https://github.com/gerardchung 
+    - icon: twitter
+      name: Twitter
+      url: https://twitter.com/GerardChung
+    - icon: graduation-cap
+    #  icon_pack: fas
+      link: https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en
+    - icon: researchgate
+    #  icon_pack: fab
+      link: https://www.researchgate.net/profile/Gerard_Chung
+  subtitle: PhD Student

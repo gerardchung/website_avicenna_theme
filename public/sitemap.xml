@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.edu/categories/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.edu/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.edu/post/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.edu/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.edu/post/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.edu/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.edu/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.edu/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.edu/tags/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.edu/projects/hodhod/</loc>
+    <lastmod>2019-08-26T16:36:11+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.edu/publications/mybestpaper/</loc>
+    <lastmod>2019-08-26T16:36:11+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.edu/projects/</loc>
+    <lastmod>2019-08-26T16:36:11+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.edu/publications/</loc>
+    <lastmod>2019-08-26T16:36:11+04:30</lastmod>
+  </url>
+  
+</urlset>
