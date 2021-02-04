@@ -28,8 +28,11 @@ params:
                I also identify as a methodologist where the through
                line connecting my research interests involved the use of computational
                social science methods and advanced statistical methods.\n\ "
-      - text: "My scholarly work can be accessed at  __[Google Scholar](https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en)__ --
-                __[ResearchGate](https://www.researchgate.net/profile/Gerard-Chung)__ -- __[GitHub](https://github.com/gerardchung)__ \n\ "
+#      - text: "My scholarly work can be accessed at  __[Google Scholar](https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en)__ --
+#                __[ResearchGate](https://www.researchgate.net/profile/Gerard-Chung)__ -- __[GitHub](https://github.com/gerardchung)__ \n\ "
+      - text: "My scholarly work can be accessed at [Google Scholar](https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en) --
+                [ResearchGate](https://www.researchgate.net/profile/Gerard-Chung) -- [GitHub](https://github.com/gerardchung) \n\ "
+              
   projects:
     - project:
         - blog_link: ''
@@ -101,8 +104,8 @@ params:
     - icon: twitter
       name: Twitter
       url: https://twitter.com/GerardChung
-    - icon: LinkedIn
-   #   icon_pack: fas
+    - icon: graduation-cap
+      icon_pack: fas
       link: https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en
     - icon: researchgate
       icon_pack: fab
