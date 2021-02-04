@@ -29,8 +29,8 @@ params:
                identify as a methodologist in social work research where the through
                line connecting my research interests involved the use of computational
                social science methods and other advanced statistical methods.\n\ "
-      - text: "My scholarly work can be accessed at [Google Scholar](https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en)
-               or [Research Gate](https://www.researchgate.net/profile/Gerard-Chung) \n\ "
+      - text: "My scholarly work can be accessed at  __[Google Scholar](https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en)__ --
+                __[ResearchGate](https://www.researchgate.net/profile/Gerard-Chung)__ -- __[GitHub](https://github.com/gerardchung)__ \n\ "
   projects:
     - project:
         - blog_link: ''
