@@ -46,21 +46,26 @@ params:
      #     description: ''
      #     name: Integer eget aliquet nibh praesent tristique magna
      #     project_page: https://myprojecthomepage.com
- #publications:
- #  - paper:
- #      - authors: Ana Alvardo, William Worthley, __Hadi Sinaee__
- #        blog_link: https://myblogaboutit.com
- #        code_link: https://thecoderepo.com
- #        dest: Helga Zita Journal
- #        link: https://mypaperishere.com
- #        name: Enim nunc faucibus a pellentesque sit amet porttitor
- #      - authors: __Hadi Sinaee__,Les Larkins, Edra Ethier
- #        blog_link: https://myblogaboutit.com
- #        code_link: https://thecoderepo.com
- #        dest: Meklit Katlego Conference
- #        link: https://mypaperishere.com
- #        name: In cursus turpis massa tincidunt dui ut ornare lectus sit
- #    year: Preprint
+ 
+  publications:
+    - paper:
+        - authors: __Gerard Chung__, Todd Jensen, Anna Parisi, Rebecca Macy, Paul Lanier
+          blog_link: ''
+          code_link: ''
+          dest: Violence Against Women Journal
+          link: https://doi.org/10.1177/1077801220985125
+          name: "Impact of Intimate Partner Violence on Parenting and Children’s Behaviors: Transactional Processes Over Time"
+      year: 2021 
+    - paper:
+        - authors: __Gerard Chung__, Paul Lanier, Peace Wong
+          blog_link: ''
+          code_link: ''
+          dest: Journal of Family Violence
+          link: https://doi.org/10.1007/s10896-020-00200-1
+          name: "Mediating Effects of Parental Stress on Harsh Parenting and Parent-Child Relationship during Coronavirus (COVID-19) Pandemic in Singapore"
+      year: 2020 
+
+
  #  - paper:
  #      - authors: Caroll Comes, __Hadi Sinaee__
  #        blog_link: ''
@@ -95,10 +100,10 @@ params:
     - icon: twitter
       name: Twitter
       url: https://twitter.com/GerardChung
-    - icon: graduation-cap
-      icon_pack: fas
+    - icon: LinkedIn
+   #   icon_pack: fas
       link: https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en
     - icon: researchgate
       icon_pack: fab
       link: https://www.researchgate.net/profile/Gerard_Chung
-  subtitle: PhD Student
+  subtitle: Gerard Chung

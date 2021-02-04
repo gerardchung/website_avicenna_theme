@@ -1,18 +1,20 @@
 baseURL: https://example.edu
 languageCode: en-us
-title: Gerard Chung
+title: Hadi Sinaee
 theme: avicenna
 googleAnalytics: UA-1234-6
 timeout: 3000
 params:
   affilation:
-    - contact: gcsk1982@gmail.com
-      name: University of North Carolina
-      position: PhD Candidate
-  #twitter: @GerardChung
-  #blog: http://myblog.edu
-  cv_name: cv.pdf
-  interests: 'Parenting, Risk Assessment in Chil Protection, Computational Social Science'
+    - contact: hadi@cs.stanford.edu
+      name: Stanford University
+      position: PhD Student
+    - contact: hadi@mycoolstartup.ai
+      name: MyCoolStartup
+      position: Co-Founder
+  blog: http://myblog.edu
+  cv_name: HadiSinaee_CV.pdf
+  interests: 'Deep Reinforcement Learning, Machine Learning '
   introduction:
     paragraph:
       - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -95,14 +97,11 @@ params:
   social:
     - icon: github
       name: GitHub
-      url: https://github.com/gerardchung 
+      url: https://github.com/hadisinaee
     - icon: twitter
       name: Twitter
-      url: https://twitter.com/GerardChung
-    - icon: graduation-cap
-    #  icon_pack: fas
-      link: https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en
-    - icon: researchgate
-    #  icon_pack: fab
-      link: https://www.researchgate.net/profile/Gerard_Chung
+      url: https://twitter.com/hadisinaee
+    - icon: linkedin
+      name: LinkedIn
+      url: https://linkedin.com/in/hadisinaee/
   subtitle: PhD Student
