@@ -68,6 +68,20 @@ params:
           link: https://doi.org/10.1007/s10896-020-00200-1
           name: "Mediating Effects of Parental Stress on Harsh Parenting and Parent-Child Relationship during Coronavirus (COVID-19) Pandemic in Singapore"
       year: 2020 
+    - paper:
+        - authors: __Gerard Chung__, David Ansong, Kanisha Brevard, Chen Ding-Chen
+          blog_link: ''
+          code_link: ''
+          dest: Child Abuse & Neglect (Under revision)
+          link: https://doi.org/10.31219/osf.io/aqxer 
+          name: "Identifying treatment moderators of a trauma-informed parenting intervention with children in foster care: Using model-based recursive partitioning"
+        - authors: __Gerard Chung__, Carys Chen Xi Wen, Paul Lanier, Peace Wong
+          blog_link: ''
+          code_link: ''
+          dest: Community, Work, and Family Journal (Under revision)
+          link: https://doi.org/10.31219/osf.io/nz9s8
+          name: "Associations Between Work-Family Balance, Parenting Stress, and Marital Conflicts During COVID-19 Pandemic in Singapore"
+      year: Preprints
 
 
  #  - paper:
