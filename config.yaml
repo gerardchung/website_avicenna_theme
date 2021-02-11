@@ -28,21 +28,29 @@ params:
               
   projects:
     - project:
+
+        - blog_link: ''
+          code_link: 'https://github.com/gerardchung/social_work_news_singapore'
+          description: Text data analysis of 7000 news articles related to Social Work Profession in Singapore
+          name: Text-mining news on Social Work Profession in Singapore
+          project_page: 'https://github.com/gerardchung/social_work_news_singapore'
+
         - blog_link: ''
           code_link: ''
           description: A survey study of parenting during COVID-19 pandemic in Singapore
           name: Parenting During COVID-19 in Singapore
-          project_page: http://sgcovidparenting.mystrikingly.com/
+          project_page: 'http://sgcovidparenting.mystrikingly.com/'
         - blog_link: ''
           code_link: ''
           description: Preliminary results of meta-analysis in interactive table 
           name: Meta-analysis of Risk Factors of Child Maltreatment Recurrence
-          project_page: https://gerardchung.shinyapps.io/shiny_metaanalysis_effects/
+          project_page: 'https://gerardchung.shinyapps.io/shiny_metaanalysis_effects/'
         - blog_link: ''
           code_link: 'https://github.com/gerardchung/riskfactors_chmaltreatment'
           description: Use PRM to identify a set of risk factors that have strong predictive relationship with child maltreatment recurrence outcome in the NSCAW data.
           name: Predictive Risk Modeling of Risk Factors of Child Maltreatment Re-reports
-          project_page: ''
+          project_page: 'https://github.com/gerardchung/riskfactors_chmaltreatment'
+          
  
   publications:
     - paper:
@@ -71,7 +79,7 @@ params:
         - authors: __Gerard Chung__, Carys Chen Xi Wen, Paul Lanier, Peace Wong
           blog_link: ''
           code_link: ''
-          dest: Community, Work, and Family Journal (Under revision)
+          dest: Community, Work, and Family Journal (Under review)
           link: https://doi.org/10.31219/osf.io/nz9s8
           name: "Associations Between Work-Family Balance, Parenting Stress, and Marital Conflicts During COVID-19 Pandemic in Singapore"
       year: Preprints
