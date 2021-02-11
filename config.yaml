@@ -17,13 +17,6 @@ params:
     paragraph:
       - text: "I am from Singapore. I am a doctoral candidate at the University of 
                North Carolina at Chapel Hill [School of Social Work](https://ssw.unc.edu/).\n   "
-      - text: " My dissertation will focus on risk factors of maltreatment rereports. My 
-                [first paper](https://gerardchung.shinyapps.io/shiny_metaanalysis_effects/) 
-                will be a meta-analysis of risk factors of maltreatment rereports. 
-                My second paper will do a predictive risk modeling of risk factors. 
-                My third paper will use a Bayesian spatiotemporal 
-                framework to analyze risk factors associated with child maltreatment 
-                rereports across counties of North Carolina.\n\ "
       - text: "I am a social work researcher interested in parenting, family services in the community, risk assessment, and child protection services.
                I also identify as a methodologist where the through
                line connecting my research interests involved the use of computational
@@ -45,11 +38,11 @@ params:
           description: Preliminary results of meta-analysis in interactive table 
           name: Meta-analysis of Risk Factors of Child Maltreatment Recurrence
           project_page: https://gerardchung.shinyapps.io/shiny_metaanalysis_effects/
-     #   - blog_link: https://ablogpost.com
-     #     code_link: ''
-     #     description: ''
-     #     name: Integer eget aliquet nibh praesent tristique magna
-     #     project_page: https://myprojecthomepage.com
+        - blog_link: ''
+          code_link: 'https://github.com/gerardchung/riskfactors_chmaltreatment'
+          description: Use PRM to identify a set of risk factors that have strong predictive relationship with child maltreatment recurrence outcome in the NSCAW data.
+          name: Predictive Risk Modeling of Risk Factors of Child Maltreatment Re-reports
+          project_page: ''
  
   publications:
     - paper:
