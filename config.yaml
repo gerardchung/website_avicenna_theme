@@ -54,6 +54,13 @@ params:
  
   publications:
     - paper:
+        - authors: __Gerard Chung__, David Ansong, Kanisha Brevard, Chen Ding-Chen
+          blog_link: ''
+          code_link: ''
+          dest: Child Abuse & Neglect 
+          link: https://doi.org/10.1016/j.chiabu.2021.105065
+          name: "Identifying treatment moderators of a trauma-informed parenting intervention with children in foster care: Using model-based recursive partitioning"
+
         - authors: __Gerard Chung__, Todd Jensen, Anna Parisi, Rebecca Macy, Paul Lanier
           blog_link: ''
           code_link: ''
@@ -70,12 +77,6 @@ params:
           name: "Mediating Effects of Parental Stress on Harsh Parenting and Parent-Child Relationship during Coronavirus (COVID-19) Pandemic in Singapore"
       year: 2020 
     - paper:
-        - authors: __Gerard Chung__, David Ansong, Kanisha Brevard, Chen Ding-Chen
-          blog_link: ''
-          code_link: ''
-          dest: Child Abuse & Neglect (Under revision)
-          link: https://doi.org/10.31219/osf.io/aqxer 
-          name: "Identifying treatment moderators of a trauma-informed parenting intervention with children in foster care: Using model-based recursive partitioning"
         - authors: __Gerard Chung__, Carys Chen Xi Wen, Paul Lanier, Peace Wong
           blog_link: ''
           code_link: ''
