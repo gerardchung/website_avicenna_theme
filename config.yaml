@@ -83,6 +83,12 @@ params:
           dest: Community, Work, and Family Journal (Under review)
           link: https://doi.org/10.31219/osf.io/nz9s8
           name: "Associations Between Work-Family Balance, Parenting Stress, and Marital Conflicts During COVID-19 Pandemic in Singapore"
+        - authors: __Gerard Chung__, Maria Rodriguez, Paul Lanier, Daniel Gibbs
+          blog_link: ''
+          code_link: ''
+          dest: JSSWR (Under review)
+          link: https://doi.org/10.31219/osf.io/enzst
+          name: "Text-mining open-ended survey responses using structural topic modeling: A practical demonstration to understand parents’ coping methods during COVID-19 pandemic in Singapore"
       year: Preprints
 
 
