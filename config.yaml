@@ -6,18 +6,18 @@ googleAnalytics: UA-1234-6
 timeout: 3000
 params:
   affilation:
-    - contact: gcsk1982@gmail.com
-      name: University of North Carolina
-      position: PhD Candidate
+    - contact: gerard@nus.edu.sg
+      name: Social Service Research Centre, NUS
+      position: Research Fellow
   #twitter: @GerardChung
   #blog: 'www.gerardchung.com'
   cv_name: cv.pdf
-  interests: 'Parenting, Family Services, Risk Assessment in Child Protection, Textual Data Analysis, Computational Social Science'
+  interests: 'Parenting, Family Services, Intervention research, Evaluation, Administrative data, Risk assessment, Text-as-data analysis, Computational social science'
   introduction:
     paragraph:
-      - text: "I am from Singapore. I am a doctoral candidate at the University of 
-               North Carolina at Chapel Hill [School of Social Work](https://ssw.unc.edu/).\n   "
-      - text: "I am a social work researcher interested in parenting, family services in the community, risk assessment, and child protection services.
+      - text: "I am from Singapore. I am a research fellow at the [Social Service Research Centre](https://fass.nus.edu.sg/ssr/), National University of Singapore. I have a doctoral degree in social work from the University of 
+               North Carolina at Chapel Hill [School of Social Work](https://ssw.unc.edu/). I had also practiced as a social worker in a family service centre in Singapore.\n   "
+      - text: "As a social work researcher, I am interested in parenting, family services in the community, risk assessment, and child protection services. I am especially interested in intervention research and in the use of administrative data to improve social work processes.
                I also identify as a methodologist where the through
                line connecting my research interests involved the use of computational
                social science methods and advanced statistical methods.\n\ "
@@ -54,6 +54,13 @@ params:
  
   publications:
     - paper:
+        - authors: __Gerard Chung__, Paul Lanier, Chen Ding-Chen
+          blog_link: ''
+          code_link: ''
+          dest: Child & Family Social Work
+          link:  https://doi.org/10.1111/cfs.12866
+          name: "What predicts mothers' use of spanking in the first 6 years of early childhood? A latent growth curve analysis"
+    
         - authors: __Gerard Chung__, David Ansong, Kanisha Brevard, Chen Ding-Chen
           blog_link: ''
           code_link: ''
