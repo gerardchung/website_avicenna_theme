@@ -74,7 +74,9 @@ params:
           dest: Violence Against Women Journal
           link: https://doi.org/10.1177/1077801220985125
           name: "Impact of Intimate Partner Violence on Parenting and Children’s Behaviors: Transactional Processes Over Time"
+      
       year: 2021 
+      
     - paper:
         - authors: __Gerard Chung__, Paul Lanier, Peace Wong
           blog_link: ''
@@ -82,7 +84,15 @@ params:
           dest: Journal of Family Violence
           link: https://doi.org/10.1007/s10896-020-00200-1
           name: "Mediating Effects of Parental Stress on Harsh Parenting and Parent-Child Relationship during Coronavirus (COVID-19) Pandemic in Singapore"
+    
+        - authors: __Gerard Chung__, Quinton Smith, Joseph Frey, Paul Lanier
+          blog_link: ''
+          code_link: ''
+          dest: Child and Youth Service Review
+          link: https://doi.org/10.1016/j.childyouth.2020.105758
+          name: "Associations between depression and parenting of fathers in Head Start and parental self-efficacy as a protective factor"
       year: 2020 
+    
     - paper:
         - authors: __Gerard Chung__, Carys Chen Xi Wen, Paul Lanier, Peace Wong
           blog_link: ''
