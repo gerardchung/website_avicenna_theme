@@ -28,23 +28,37 @@ params:
               
   projects:
     - project:
-
+        - blog_link: ''
+          code_link: 'https://github.com/gerardchung/ssa_covid_news'
+          description: Analysis of 1,095 news articles using a corpus linguistic approach 
+          name: News Media Representations of Social Service Agencies During COVID-19 in Singapore
+          project_page: 'https://gerardchung.github.io/ssanews/'
+          
         - blog_link: ''
           code_link: 'https://github.com/gerardchung/social_work_news_singapore'
           description: Text data analysis of 7000 news articles related to Social Work Profession in Singapore
           name: Text-mining news on Social Work Profession in Singapore
           project_page: 'https://github.com/gerardchung/social_work_news_singapore'
 
+
+        - blog_link: ''
+          code_link: ''
+          description: Narratives of Directors' messages from 2017 to 2021
+          name: Annual reports of Social Service Agencies in Singapore 
+          project_page: 'https://github.com/gerardchung/ssa_annual_reports'
+
         - blog_link: ''
           code_link: ''
           description: A survey study of parenting during COVID-19 pandemic in Singapore
           name: Parenting During COVID-19 in Singapore
           project_page: 'http://sgcovidparenting.mystrikingly.com/'
+          
         - blog_link: ''
           code_link: ''
           description: Preliminary results of meta-analysis in interactive table 
           name: Meta-analysis of Risk Factors of Child Maltreatment Recurrence
           project_page: 'https://gerardchung.shinyapps.io/shiny_metaanalysis_effects/'
+          
         - blog_link: ''
           code_link: 'https://github.com/gerardchung/riskfactors_chmaltreatment'
           description: Use PRM to identify a set of risk factors that have strong predictive relationship with child maltreatment recurrence outcome in the NSCAW data.
@@ -54,6 +68,25 @@ params:
  
   publications:
     - paper:
+    
+        - authors: __Gerard Chung__, Maria Rodriguez, Paul Lanier, Daniel Gibbs
+          blog_link: ''
+          code_link: ''
+          dest: Journal of Technology in Human Services (Accepted for publication)
+          link: https://doi.org/10.31219/osf.io/enzst
+          name: "Text-mining open-ended survey responses using structural topic modeling: A practical demonstration to understand parents' coping methods during the COVID-19 pandemic in Singapore"
+
+
+        - authors: __Gerard Chung__, Kirsten Kain, Sarah Rabiner Eisensmith, Paul Lanier 
+          blog_link: ''
+          code_link: ''
+          dest: Journal of Child And Family Studies
+          link:  https://doi.org/10.1007/s10826-022-02227-y
+          name: "Effects of Youth Educational Aspirations on Academic Outcomes and Racial Differences: A Propensity Score Matching Approach"
+      year: 2022
+    
+    - paper:
+    
         - authors: __Gerard Chung__, Paul Lanier, Chen Ding-Chen
           blog_link: ''
           code_link: ''
@@ -74,7 +107,7 @@ params:
           dest: Violence Against Women Journal
           link: https://doi.org/10.1177/1077801220985125
           name: "Impact of Intimate Partner Violence on Parenting and Children’s Behaviors: Transactional Processes Over Time"
-      
+    
       year: 2021 
       
     - paper:
@@ -100,12 +133,6 @@ params:
           dest: Community, Work, and Family Journal (Under review)
           link: https://doi.org/10.31219/osf.io/nz9s8
           name: "Associations Between Work-Family Balance, Parenting Stress, and Marital Conflicts During COVID-19 Pandemic in Singapore"
-        - authors: __Gerard Chung__, Maria Rodriguez, Paul Lanier, Daniel Gibbs
-          blog_link: ''
-          code_link: ''
-          dest: JSSWR (Under review)
-          link: https://doi.org/10.31219/osf.io/enzst
-          name: "Text-mining open-ended survey responses using structural topic modeling: A practical demonstration to understand parents’ coping methods during COVID-19 pandemic in Singapore"
       year: Preprints
 
 
