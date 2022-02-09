@@ -2,7 +2,7 @@ baseURL: https://www.gerardchung.com
 languageCode: en-us
 title: Gerard Chung
 theme: avicenna
-google_analytics: UA-50248847-1
+google_analytics: G-T5QN0FBP69
 #googleAnalytics: UA-1234-6
 timeout: 3000
 params:
