@@ -130,9 +130,16 @@ params:
         - authors: __Gerard Chung__, Carys Chen Xi Wen, Paul Lanier, Peace Wong
           blog_link: ''
           code_link: ''
-          dest: Community, Work, and Family Journal (Under review)
+          dest: Journal of Child & Family Studies (Under review)
           link: https://doi.org/10.31219/osf.io/nz9s8
           name: "Associations Between Work-Family Balance, Parenting Stress, and Marital Conflicts During COVID-19 Pandemic in Singapore"
+          
+        - authors: __Gerard Chung__
+          blog_link: 'https://gerardchung.github.io/ssanews/'
+          code_link: 'https://github.com/gerardchung/ssa_covid_news'
+          dest: Social Service Review (targeted)
+          link: https://osf.io/jy87c/
+          name: "News Media Representations of Social Service Agencies in Singapore During COVID-19 Pandemic"
       year: Preprints
 
 
