@@ -17,11 +17,18 @@ params:
   introduction:
     paragraph:
       - text: "I am a research fellow at the [Social Service Research Centre](https://fass.nus.edu.sg/ssr/), National University of Singapore. I have a Ph.D. in social work from the University of 
-               North Carolina at Chapel Hill [School of Social Work](https://ssw.unc.edu/). I had also practiced as a social worker in a family service centre in Singapore.\n   "
-      - text: "As a social work researcher, I am interested in researching parenting, family services in the community, and risk assessment. I am especially interested in intervention research and in the use of administrative data to improve social work processes.
-               I also identify as a methodologist where the through
-               line connecting my research interests involved the use of computational
-               social science methods and advanced statistical methods.\n\ "
+               North Carolina at Chapel Hill [School of Social Work](https://ssw.unc.edu/). I had also practiced as a social worker in a family service centre in Singapore."
+      - text: "As a social work researcher, I am interested in researching parenting, family services in the community, and risk
+assessment. I am especially interested in intervention research and development. With the increased availability
+of administrative data as a form of BIG data, I am interested to advance the use of admin data in the social service
+sector to improve social work practices, develop prediction models for risk assessment, and to evaluate social in‑
+terventions. I also identify as a methodologist where the through line connecting my research interests involved
+the use of computational social science methods and advanced statistical methods.\n\ "
+      - text: "Recently, I started various text-as-data analysis projects. See this latest [article](https://gerardchung.github.io/ssanews/) 
+      where I used natural language processing techniques to understand how 1,500 news articles reported about social service agencies during the 
+      pandemic in Singapore. See [this](https://osf.io/enzst/) on how to analyze open-ended survey responses. I am also extracting textual data from SSAs' annual reports from 2016 to 2022 to look at how directors/CEOs report about their agencies before and during the pandemic. 
+      Join my [GitHub](https://gerardchung.github.io) to follow these projects. My other active work includes two longitudinal studies: [Enhancing Positive Outcomes in Youth and the Community](https://fass.nus.edu.sg/ssr/research-projects/enhancing-positive-outcomes-in-youth-community/) and 
+      [In-Work Poverty and the Challenges of Getting by among the Young](https://fass.nus.edu.sg/ssr/research-projects/in-work-poverty-challenges-getting-by-among-the-young/)\n\ "
 #      - text: "My scholarly work can be accessed at  __[Google Scholar](https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en)__ --
 #                __[ResearchGate](https://www.researchgate.net/profile/Gerard-Chung)__ -- __[GitHub](https://github.com/gerardchung)__ \n\ "
       - text: "My scholarly work can be accessed at [Google Scholar](https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en) --
