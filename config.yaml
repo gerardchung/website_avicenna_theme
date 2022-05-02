@@ -48,6 +48,12 @@ the use of computational social science methods and advanced statistical methods
           name: Text-mining news on Social Work Profession in Singapore
           project_page: 'https://github.com/gerardchung/social_work_news_singapore'
 
+        - blog_link: ''
+          code_link: ''
+          description: What types of parenting books can be found on Amazon.sg?
+          name: Webscrapping titles of Parenting books on Amazon.sg 
+          project_page: 'https://gerardchung.github.io/amazon_parentingbooks/'
+
 
         - blog_link: ''
           code_link: ''
