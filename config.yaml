@@ -4,7 +4,7 @@ title: Gerard Chung
 theme: avicenna
 google_analytics: G-T5QN0FBP69
 #googleAnalytics: UA-1234-6
-timeout: 3000
+#timeout: 3000
 params:
   affilation:
     - contact: gerard@nus.edu.sg
@@ -29,18 +29,24 @@ the use of computational social science methods and advanced statistical methods
       pandemic in Singapore. See [this](https://osf.io/enzst/) on how to analyze open-ended survey responses. I am also extracting textual data from SSAs' annual reports from 2016 to 2022 to look at how directors/CEOs report about their agencies before and during the pandemic. 
       Join my [GitHub](https://gerardchung.github.io) to follow these projects. My other active work includes two longitudinal studies: [Enhancing Positive Outcomes in Youth and the Community](https://fass.nus.edu.sg/ssr/research-projects/enhancing-positive-outcomes-in-youth-community/) and 
       [In-Work Poverty and the Challenges of Getting by among the Young](https://fass.nus.edu.sg/ssr/research-projects/in-work-poverty-challenges-getting-by-among-the-young/)\n\ "
-#      - text: "My scholarly work can be accessed at  __[Google Scholar](https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en)__ --
-#                __[ResearchGate](https://www.researchgate.net/profile/Gerard-Chung)__ -- __[GitHub](https://github.com/gerardchung)__ \n\ "
       - text: "My scholarly work can be accessed at [Google Scholar](https://scholar.google.com/citations?user=9aeYOx8AAAAJ&hl=en) --
                 [ResearchGate](https://www.researchgate.net/profile/Gerard-Chung) -- [GitHub](https://github.com/gerardchung) \n\ "
               
   projects:
     - project:
+
+        - blog_link: ''
+          code_link: 'https://gerardchung.github.io/meta_analysis_parentingstress/'
+          description: Meta-analysis of 35+ studies to examine the effects of parenting stress during pandemic 
+          name: Parenting stress and children behavioral problems during COVID-19 pandemic 
+          project_page: 'https://gerardchung.github.io/meta_analysis_parentingstress/'
+          
         - blog_link: ''
           code_link: 'https://github.com/gerardchung/ssa_covid_news'
           description: Analysis of 1,095 news articles using a corpus linguistic approach 
           name: News Media Representations of Social Service Agencies During COVID-19 in Singapore
           project_page: 'https://gerardchung.github.io/ssanews/'
+
           
         - blog_link: ''
           code_link: 'https://github.com/gerardchung/social_work_news_singapore'
@@ -66,12 +72,6 @@ the use of computational social science methods and advanced statistical methods
           description: A survey study of parenting during COVID-19 pandemic in Singapore
           name: Parenting During COVID-19 in Singapore
           project_page: 'http://sgcovidparenting.mystrikingly.com/'
-          
-        - blog_link: ''
-          code_link: ''
-          description: Preliminary results of meta-analysis in interactive table 
-          name: Meta-analysis of Risk Factors of Child Maltreatment Recurrence
-          project_page: 'https://gerardchung.shinyapps.io/shiny_metaanalysis_effects/'
           
         - blog_link: ''
           code_link: 'https://github.com/gerardchung/riskfactors_chmaltreatment'
